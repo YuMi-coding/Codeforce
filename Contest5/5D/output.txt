@@ -1,0 +1,6 @@
+1.000000 0.500000
+2.500000
+14.000000 490.000000
+timeReachSign=8.246211,speedReachSign=41.231056
+speedDifferene = 1.231056,timeDecreaseSpeed = 0.123106
+8.964009
