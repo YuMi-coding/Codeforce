@@ -6,7 +6,6 @@
 #include <cmath>
 
 #define USE_ONLINE_JUDGE
-double a,v,l,w,d;
 
 int main()
 {

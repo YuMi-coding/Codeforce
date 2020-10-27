@@ -1,6 +1,8 @@
-1.000000 0.500000
-2.500000
-14.000000 490.000000
-timeReachSign=8.246211,speedReachSign=41.231056
-speedDifferene = 1.231056,timeDecreaseSpeed = 0.123106
-8.964009
+maxAccelTime = 0.678566, maxAccelDist = 1644.505740
+v > w
+distanceDecrease = 1367.025619, distanceNoChangeSpeed = -334.531359
+timeReachSign=0.865763,speedReachSign=6184.142786
+speedDifferene = 4193.142786,timeDecreaseSpeed = 0.293514
+timeAccel = 0.643132
+ansFirst = 1.007530, ansSecond = 0.430567
+1.438097
