@@ -2,4 +2,20 @@
 *.out
 *.inf
 *.txt
-/.vscode
+# Visual Studio cache/options
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj.user.*
+*.vcxproj.*
+*.sdf
+*.opensdf
+*.suo
+*.sln.docstates
+*.sln.docstates.user
+*.suo.user
+x64/
+
+.vscode/
+.vs/
